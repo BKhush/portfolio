@@ -307,11 +307,9 @@
 
 
 			$('.linkFix a').on('click',function() {           
-				window.location.href = "/pdf/resume.pdf";  // Change This
+				window.location.href = "/documents/resume.pdf";  // Change This
 		});
-		$('.linkFix2 a').on('click',function() {           
-			window.location.href = "https://github.com/BKhush";  // Change This
-	});
+		
 
 
 }());

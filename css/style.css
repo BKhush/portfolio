@@ -104,7 +104,7 @@ figure {
   width: 300px;
   position: fixed;
   z-index: 1001;
-    background-color: #f2f3f7;
+    background-color: #f6f6f6;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -117,7 +117,7 @@ figure {
       -o-transform: translateX(-300px);
       transform: translateX(-300px);
       padding-top: 4em;
-    background-color: #f2f3f7;
+    background-color: #f6f6f6;
         height: auto;
       } }
   #colorlib-aside .author-img {
